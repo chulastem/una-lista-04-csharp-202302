@@ -26,5 +26,4 @@ public class Exercicio7
         Console.ReadLine();
     }
 
-
 }
